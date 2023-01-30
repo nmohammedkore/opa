@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/bytecodealliance/wasmtime-go v0.36.0
-	github.com/containerd/containerd v1.6.4
+	github.com/containerd/containerd v1.6.16
 	github.com/dgraph-io/badger/v3 v3.2103.2
 	github.com/dgryski/go-farm v0.0.0-20200201041132-a6ae2369ad13 // indirect
 	github.com/fortytw2/leaktest v1.3.0
@@ -41,7 +41,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.7.0
 	go.opentelemetry.io/otel/trace v1.7.0
 	go.uber.org/automaxprocs v1.5.1
-	golang.org/x/net v0.0.0-20220107192237-5cfca573fb4d
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/grpc v1.47.0
 	gopkg.in/yaml.v2 v2.4.0
